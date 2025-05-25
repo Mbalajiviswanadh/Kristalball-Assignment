@@ -55,7 +55,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and description
-st.markdown('<h1 class="main-header">🔮 Kristalball Inventory Management</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">🔮 Kristalball, Bar Inventory Management Assignemnt</h1>', unsafe_allow_html=True)
 st.markdown("### AI-Powered Bar Inventory Analytics & Forecasting System")
 
 # File upload
