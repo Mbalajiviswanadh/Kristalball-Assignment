@@ -637,4 +637,3 @@ else:
 
 # Footer
 st.markdown("---")
-# st.markdown("Made with ❤️ using Streamlit | Kristalball Inventory Management System")
